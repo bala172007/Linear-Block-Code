@@ -59,9 +59,7 @@ print("Corrected Codeword:",*( (r_code+err)%2 ))
 <img width="733" height="810" alt="image" src="https://github.com/user-attachments/assets/bbaa2224-c0ab-4180-b5c6-de8447608985" />
 <img width="681" height="127" alt="image" src="https://github.com/user-attachments/assets/669ed4e8-ade0-4cb1-b899-3b8e9e277846" />
 
-```
 # Results
-```
-Attach the output waveform
-```
-# Hardware experiment output waveform.
+
+Hence the output for linear block code is verified sucessfully
+
